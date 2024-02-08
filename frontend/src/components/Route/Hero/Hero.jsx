@@ -54,12 +54,12 @@ const Hero = () => {
           Message your therapist anytime
         </h1>
         <p className="pt-5 text-[16px] 800px:text-[16px] 1200px:text-[20px] font-[400] text-[#ffffff]">
-        24/7 messaging services with our assigned therapists via text messaging & voice calls.
+            24/7 messaging services with our assigned therapists via text messaging & voice calls.
         </p>
-        <Link to="/products" className="inline-block">
+        <Link to="/sign-up" className="inline-block">
           <div className={`${styles.button} mt-5`}>
             <span className="text-[#fff] text-[18px]">
-              Shop Now
+              Register Now
             </span>
           </div>
         </Link>
